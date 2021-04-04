@@ -1,0 +1,13 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: The intermediate directory (x64\Release\) contains files shared from another project (loader_example.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+C:\Users\woody\Desktop\Scripts\division\loader\loader_example\auth.h(54,20): warning C4477: 'sprintf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'ULONGLONG'
+C:\Users\woody\Desktop\Scripts\division\loader\loader_example\auth.h(54,20): message : consider using '%lld' in the format string
+C:\Users\woody\Desktop\Scripts\division\loader\loader_example\auth.h(54,20): message : consider using '%Id' in the format string
+C:\Users\woody\Desktop\Scripts\division\loader\loader_example\auth.h(54,20): message : consider using '%I64d' in the format string
+  needle.cpp
+  Generating code
+  169 of 1026 functions (16.5%) were compiled, the rest were copied from previous compilation.
+    110 functions were new in current compilation
+    11 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  loader_example.vcxproj -> C:\Users\woody\Desktop\Scripts\division\loader\x64\Release\loader.exe
